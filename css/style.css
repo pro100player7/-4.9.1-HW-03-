@@ -1,0 +1,17 @@
+.header__list
+{
+    display: flex;
+    gap: 30px;
+}
+.info p
+{
+    padding-left: 40px;
+}
+.header__item-link:hover
+{
+    text-decoration: underline;
+}
+.info__img
+{
+    text-align: center;
+}

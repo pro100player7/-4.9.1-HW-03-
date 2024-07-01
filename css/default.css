@@ -1,0 +1,30 @@
+*
+{
+    /* margin: 0;
+    padding: 0;
+    border: 0; */
+    box-sizing: border-box;
+    font-family: 'PlaywriteITModerna';
+}
+ul
+{
+    list-style-type: none;
+}
+a
+{
+    text-decoration: none;
+}
+body
+{
+    padding-top: 50px;
+}
+.container
+{
+    max-width: 1330px;
+    width: 100%;
+    margin: 0 auto;  
+}
+h2
+{
+    font-size: 1.3em;
+}

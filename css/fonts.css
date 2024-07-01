@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Playwrite IT Moderna';
+    src: url('fonts/PlaywriteITModerna/PlaywriteITModerna-Regular.eot');
+    src: url('fonts/PlaywriteITModerna/PlaywriteITModerna-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PlaywriteITModerna/PlaywriteITModerna-Regular.woff2') format('woff2'),
+        url('fonts/PlaywriteITModerna/PlaywriteITModerna-Regular.woff') format('woff'),
+        url('fonts/PlaywriteITModerna/PlaywriteITModerna-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
